@@ -1,0 +1,51 @@
+id,producto,precio,unidades_vendidas,stock
+2,pantalon,139,77,164
+4,gorra,156,1,155
+7,mochila,199,82,155
+9,gafas,139,37,169
+12,cinturon,235,42,191
+14,vestido,216,29,124
+17,abrigo,180,51,164
+18,chaleco,196,19,82
+19,sandalias,157,15,105
+24,sudadera,154,24,118
+25,polo,269,8,97
+26,camisa,229,88,153
+28,shorts,262,5,161
+29,ropa interior,256,3,94
+30,zapatillas,119,67,194
+31,bolso,151,96,196
+32,maleta,137,5,75
+33,cartera,292,33,63
+36,pendientes,265,15,57
+37,pulsera,158,8,126
+38,sombrero,226,71,86
+39,pañuelo,118,4,106
+43,chaqueta de invierno,234,91,86
+45,remera,186,5,189
+46,top,197,56,148
+50,calcetines de deporte,152,20,145
+id,producto,precio,unidades_vendidas,stock
+1,camiseta,234,77,66
+3,zapatos,299,55,89
+10,bufanda,104,8,58
+13,corbata,172,41,123
+15,falda,189,61,51
+16,blusa,230,87,88
+17,abrigo,172,28,187
+22,bikini,218,93,113
+25,polo,188,99,80
+30,zapatillas,274,54,104
+31,bolso,185,93,87
+32,maleta,142,60,99
+35,collar,130,26,102
+37,pulsera,121,29,159
+38,sombrero,177,35,101
+39,pañuelo,189,41,111
+40,mascarilla,151,3,183
+41,bata,192,35,131
+42,chaqueta de cuero,144,70,147
+44,paraguas,205,9,197
+46,top,105,33,170
+48,camiseta de deporte,103,53,158
+50,calcetines de deporte,196,52,88

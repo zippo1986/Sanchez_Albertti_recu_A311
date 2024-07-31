@@ -1,0 +1,352 @@
+[
+    {
+        "id": 17,
+        "producto": "abrigo",
+        "precio": 172,
+        "unidades_vendidas": 28,
+        "stock": 187
+    },
+    {
+        "id": 34,
+        "producto": "anillo",
+        "precio": 129,
+        "unidades_vendidas": 20,
+        "stock": 221
+    },
+    {
+        "id": 41,
+        "producto": "bata",
+        "precio": 192,
+        "unidades_vendidas": 35,
+        "stock": 131
+    },
+    {
+        "id": 22,
+        "producto": "bikini",
+        "precio": 218,
+        "unidades_vendidas": 93,
+        "stock": 113
+    },
+    {
+        "id": 16,
+        "producto": "blusa",
+        "precio": 230,
+        "unidades_vendidas": 87,
+        "stock": 88
+    },
+    {
+        "id": 31,
+        "producto": "bolso",
+        "precio": 185,
+        "unidades_vendidas": 93,
+        "stock": 87
+    },
+    {
+        "id": 20,
+        "producto": "botas",
+        "precio": 251,
+        "unidades_vendidas": 92,
+        "stock": 273
+    },
+    {
+        "id": 10,
+        "producto": "bufanda",
+        "precio": 104,
+        "unidades_vendidas": 8,
+        "stock": 58
+    },
+    {
+        "id": 6,
+        "producto": "calcetines",
+        "precio": 236,
+        "unidades_vendidas": 58,
+        "stock": 201
+    },
+    {
+        "id": 50,
+        "producto": "calcetines de deporte",
+        "precio": 196,
+        "unidades_vendidas": 52,
+        "stock": 88
+    },
+    {
+        "id": 26,
+        "producto": "camisa",
+        "precio": 166,
+        "unidades_vendidas": 7,
+        "stock": 222
+    },
+    {
+        "id": 1,
+        "producto": "camiseta",
+        "precio": 234,
+        "unidades_vendidas": 77,
+        "stock": 66
+    },
+    {
+        "id": 48,
+        "producto": "camiseta de deporte",
+        "precio": 103,
+        "unidades_vendidas": 53,
+        "stock": 158
+    },
+    {
+        "id": 33,
+        "producto": "cartera",
+        "precio": 136,
+        "unidades_vendidas": 20,
+        "stock": 299
+    },
+    {
+        "id": 18,
+        "producto": "chaleco",
+        "precio": 122,
+        "unidades_vendidas": 76,
+        "stock": 258
+    },
+    {
+        "id": 5,
+        "producto": "chaqueta",
+        "precio": 177,
+        "unidades_vendidas": 86,
+        "stock": 215
+    },
+    {
+        "id": 42,
+        "producto": "chaqueta de cuero",
+        "precio": 144,
+        "unidades_vendidas": 70,
+        "stock": 147
+    },
+    {
+        "id": 43,
+        "producto": "chaqueta de invierno",
+        "precio": 130,
+        "unidades_vendidas": 46,
+        "stock": 291
+    },
+    {
+        "id": 12,
+        "producto": "cinturon",
+        "precio": 116,
+        "unidades_vendidas": 61,
+        "stock": 226
+    },
+    {
+        "id": 35,
+        "producto": "collar",
+        "precio": 130,
+        "unidades_vendidas": 26,
+        "stock": 102
+    },
+    {
+        "id": 13,
+        "producto": "corbata",
+        "precio": 172,
+        "unidades_vendidas": 41,
+        "stock": 123
+    },
+    {
+        "id": 15,
+        "producto": "falda",
+        "precio": 189,
+        "unidades_vendidas": 61,
+        "stock": 51
+    },
+    {
+        "id": 9,
+        "producto": "gafas",
+        "precio": 177,
+        "unidades_vendidas": 14,
+        "stock": 236
+    },
+    {
+        "id": 4,
+        "producto": "gorra",
+        "precio": 159,
+        "unidades_vendidas": 42,
+        "stock": 252
+    },
+    {
+        "id": 11,
+        "producto": "guantes",
+        "precio": 270,
+        "unidades_vendidas": 24,
+        "stock": 296
+    },
+    {
+        "id": 27,
+        "producto": "jeans",
+        "precio": 211,
+        "unidades_vendidas": 18,
+        "stock": 244
+    },
+    {
+        "id": 32,
+        "producto": "maleta",
+        "precio": 142,
+        "unidades_vendidas": 60,
+        "stock": 99
+    },
+    {
+        "id": 40,
+        "producto": "mascarilla",
+        "precio": 151,
+        "unidades_vendidas": 3,
+        "stock": 183
+    },
+    {
+        "id": 7,
+        "producto": "mochila",
+        "precio": 190,
+        "unidades_vendidas": 15,
+        "stock": 213
+    },
+    {
+        "id": 47,
+        "producto": "mono",
+        "precio": 166,
+        "unidades_vendidas": 39,
+        "stock": 288
+    },
+    {
+        "id": 2,
+        "producto": "pantalon",
+        "precio": 203,
+        "unidades_vendidas": 95,
+        "stock": 218
+    },
+    {
+        "id": 44,
+        "producto": "paraguas",
+        "precio": 205,
+        "unidades_vendidas": 9,
+        "stock": 197
+    },
+    {
+        "id": 39,
+        "producto": "pañuelo",
+        "precio": 189,
+        "unidades_vendidas": 41,
+        "stock": 111
+    },
+    {
+        "id": 36,
+        "producto": "pendientes",
+        "precio": 165,
+        "unidades_vendidas": 90,
+        "stock": 260
+    },
+    {
+        "id": 23,
+        "producto": "pijama",
+        "precio": 146,
+        "unidades_vendidas": 51,
+        "stock": 232
+    },
+    {
+        "id": 25,
+        "producto": "polo",
+        "precio": 188,
+        "unidades_vendidas": 99,
+        "stock": 80
+    },
+    {
+        "id": 37,
+        "producto": "pulsera",
+        "precio": 121,
+        "unidades_vendidas": 29,
+        "stock": 159
+    },
+    {
+        "id": 8,
+        "producto": "reloj",
+        "precio": 152,
+        "unidades_vendidas": 80,
+        "stock": 232
+    },
+    {
+        "id": 45,
+        "producto": "remera",
+        "precio": 100,
+        "unidades_vendidas": 24,
+        "stock": 255
+    },
+    {
+        "id": 29,
+        "producto": "ropa interior",
+        "precio": 100,
+        "unidades_vendidas": 78,
+        "stock": 233
+    },
+    {
+        "id": 19,
+        "producto": "sandalias",
+        "precio": 112,
+        "unidades_vendidas": 3,
+        "stock": 208
+    },
+    {
+        "id": 28,
+        "producto": "shorts",
+        "precio": 145,
+        "unidades_vendidas": 87,
+        "stock": 203
+    },
+    {
+        "id": 38,
+        "producto": "sombrero",
+        "precio": 177,
+        "unidades_vendidas": 35,
+        "stock": 101
+    },
+    {
+        "id": 24,
+        "producto": "sudadera",
+        "precio": 155,
+        "unidades_vendidas": 90,
+        "stock": 260
+    },
+    {
+        "id": 46,
+        "producto": "top",
+        "precio": 105,
+        "unidades_vendidas": 33,
+        "stock": 170
+    },
+    {
+        "id": 21,
+        "producto": "traje",
+        "precio": 211,
+        "unidades_vendidas": 73,
+        "stock": 216
+    },
+    {
+        "id": 14,
+        "producto": "vestido",
+        "precio": 212,
+        "unidades_vendidas": 53,
+        "stock": 259
+    },
+    {
+        "id": 30,
+        "producto": "zapatillas",
+        "precio": 274,
+        "unidades_vendidas": 54,
+        "stock": 104
+    },
+    {
+        "id": 3,
+        "producto": "zapatos",
+        "precio": 299,
+        "unidades_vendidas": 55,
+        "stock": 89
+    },
+    {
+        "id": 49,
+        "producto": "zapatos de deporte",
+        "precio": 246,
+        "unidades_vendidas": 42,
+        "stock": 205
+    }
+]

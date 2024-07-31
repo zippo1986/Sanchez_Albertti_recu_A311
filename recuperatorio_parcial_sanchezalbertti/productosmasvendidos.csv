@@ -1,0 +1,177 @@
+id,producto,precio,unidades_vendidas,stock
+1,camiseta,152,32,236
+2,pantalon,177,55,113
+3,zapatos,144,66,130
+4,gorra,274,55,53
+5,chaqueta,221,12,65
+6,calcetines,113,44,204
+7,mochila,114,42,271
+8,reloj,297,63,289
+9,gafas,217,64,98
+10,bufanda,174,45,82
+11,guantes,201,75,283
+12,cinturon,135,74,60
+13,corbata,162,81,56
+14,vestido,283,85,239
+15,falda,232,15,56
+16,blusa,114,66,94
+17,abrigo,204,22,170
+18,chaleco,240,14,50
+19,sandalias,174,37,169
+20,botas,100,68,251
+21,traje,201,52,77
+22,bikini,200,32,107
+23,pijama,299,33,156
+24,sudadera,240,69,176
+25,polo,244,42,280
+26,camisa,137,62,137
+27,jeans,156,21,66
+28,shorts,197,65,260
+29,ropa interior,259,62,170
+30,zapatillas,145,53,107
+31,bolso,170,57,112
+32,maleta,126,69,253
+33,cartera,131,20,73
+34,anillo,262,75,300
+35,collar,233,54,193
+36,pendientes,255,13,262
+37,pulsera,163,54,122
+38,sombrero,258,16,184
+39,pañuelo,102,57,291
+40,mascarilla,139,46,262
+41,bata,122,12,281
+42,chaqueta de cuero,278,81,285
+43,chaqueta de invierno,276,63,77
+44,paraguas,297,99,185
+45,remera,166,61,79
+46,top,175,76,145
+47,mono,272,42,149
+48,camiseta de deporte,113,11,105
+49,zapatos de deporte,109,84,227
+50,calcetines de deporte,245,74,138
+id,producto,precio,unidades_vendidas,stock
+1,camiseta,199,77,139
+2,pantalon,191,88,171
+3,zapatos,190,83,152
+4,gorra,183,76,272
+5,chaqueta,284,29,127
+6,calcetines,199,6,280
+7,mochila,274,32,84
+8,reloj,108,12,101
+9,gafas,219,92,253
+10,bufanda,226,12,121
+11,guantes,238,97,85
+12,cinturon,112,7,82
+13,corbata,164,16,262
+14,vestido,213,76,128
+15,falda,137,76,180
+16,blusa,182,80,174
+17,abrigo,162,35,188
+18,chaleco,267,37,274
+19,sandalias,202,89,243
+20,botas,157,94,288
+21,traje,284,13,290
+22,bikini,195,76,120
+23,pijama,110,96,149
+24,sudadera,124,70,110
+25,polo,245,45,237
+26,camisa,182,50,269
+27,jeans,113,5,225
+28,shorts,163,29,226
+29,ropa interior,286,40,66
+30,zapatillas,223,34,238
+31,bolso,185,84,296
+32,maleta,249,47,207
+33,cartera,293,66,245
+34,anillo,211,59,71
+35,collar,107,97,258
+36,pendientes,271,77,102
+37,pulsera,176,27,282
+38,sombrero,177,40,117
+39,pañuelo,204,79,155
+40,mascarilla,192,27,108
+41,bata,284,76,90
+42,chaqueta de cuero,146,10,227
+43,chaqueta de invierno,292,84,89
+44,paraguas,137,84,172
+45,remera,246,28,86
+46,top,225,27,182
+47,mono,100,69,208
+48,camiseta de deporte,150,92,101
+49,zapatos de deporte,164,51,87
+50,calcetines de deporte,177,4,195
+id,producto,precio,unidades_vendidas,stock
+2,pantalon,267,77,217
+6,calcetines,277,54,264
+7,mochila,114,82,263
+12,cinturon,125,55,102
+14,vestido,109,90,279
+16,blusa,267,83,101
+18,chaleco,105,98,171
+19,sandalias,209,72,254
+21,traje,167,58,74
+22,bikini,294,80,236
+23,pijama,210,86,289
+25,polo,243,58,92
+26,camisa,275,83,164
+28,shorts,170,98,172
+31,bolso,187,73,256
+33,cartera,205,52,215
+35,collar,129,55,184
+36,pendientes,271,65,136
+37,pulsera,145,75,88
+38,sombrero,236,71,282
+40,mascarilla,291,70,289
+41,bata,270,80,215
+42,chaqueta de cuero,126,90,227
+43,chaqueta de invierno,144,70,243
+44,paraguas,225,92,125
+45,remera,113,88,158
+id,producto,precio,unidades_vendidas,stock
+1,camiseta,210,98,255
+2,pantalon,139,77,164
+3,zapatos,248,60,235
+7,mochila,199,82,155
+8,reloj,112,82,268
+10,bufanda,115,58,245
+15,falda,181,77,295
+16,blusa,157,69,223
+17,abrigo,180,51,164
+21,traje,275,87,287
+26,camisa,229,88,153
+30,zapatillas,119,67,194
+31,bolso,151,96,196
+38,sombrero,226,71,86
+41,bata,147,56,213
+42,chaqueta de cuero,257,77,257
+43,chaqueta de invierno,234,91,86
+46,top,197,56,148
+47,mono,147,65,275
+49,zapatos de deporte,190,65,223
+id,producto,precio,unidades_vendidas,stock
+1,camiseta,234,77,66
+2,pantalon,203,95,218
+3,zapatos,299,55,89
+5,chaqueta,177,86,215
+6,calcetines,236,58,201
+8,reloj,152,80,232
+12,cinturon,116,61,226
+14,vestido,212,53,259
+15,falda,189,61,51
+16,blusa,230,87,88
+18,chaleco,122,76,258
+20,botas,251,92,273
+21,traje,211,73,216
+22,bikini,218,93,113
+23,pijama,146,51,232
+24,sudadera,155,90,260
+25,polo,188,99,80
+28,shorts,145,87,203
+29,ropa interior,100,78,233
+30,zapatillas,274,54,104
+31,bolso,185,93,87
+32,maleta,142,60,99
+36,pendientes,165,90,260
+42,chaqueta de cuero,144,70,147
+48,camiseta de deporte,103,53,158
+50,calcetines de deporte,196,52,88
